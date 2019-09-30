@@ -1,6 +1,6 @@
 {
-  "name": "admin-conflu",
-  "homepage": "https://rajat7630.github.io/admin-conflu",
+  "name": "admin_panel_confluence",
+  "homepage": "https://rajat7630.github.io/admin_panel_confluence",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
